@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋, I'm Koby Christian
 
-<!--
-**towtu/towtu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Computer Science Student and Full Stack Developer** from the Philippines. I love building data-driven applications, focusing on robust system logic, web systems, and cross-platform mobile development. I'm a highly adaptable learner who enjoys bringing ideas to life, whether that's through automation, computer vision, or crafting scalable user experiences.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a personal portfolio and full-stack e-commerce platforms.
+- 🌱 I’m currently deep-diving into Software Configuration Management and server-side technologies.
+- 📫 How to reach me: **[atilanokobychristian@gmail.com](mailto:atilanokobychristian@gmail.com)**
+- ⚡ Fun fact: When I'm not coding, I'm probably building tools to track my macros or experimenting with new air fryer recipes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
+  </a>
+</p>
+
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=towtu&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" />
+</p>
+
+---
+<p align="center">
+  <i>Let's connect and build something awesome together!</i> <br>
+  <a href="https://github.com/towtu">GitHub</a> • 
+  <a href="mailto:atilanokobychristian@gmail.com">Email</a>
+</p>
