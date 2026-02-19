@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&width=500&lines=Hi+👋,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&width=500&lines=Hi,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
 
 A passionate **Computer Science Student and Full Stack Developer** from the Philippines. I love building data-driven applications, focusing on robust system logic, web systems, and cross-platform mobile development. I'm a highly adaptable learner who enjoys bringing ideas to life, whether that's through automation, computer vision, or crafting scalable user experiences.
 
