@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual runs
   workflow_dispatch:
-  # Run on every push to the master/main branch
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -14,24 +11,28 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: towtu
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
           
-          # Plugins that match your reference image
+          # 🌟 THIS IS THE MAGIC SETTING FOR THE WIDE LAYOUT 🌟
+          config_display: large 
+          
+          # 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Coding Habits (Tweaked to prevent the API timeout error)
+          plugin_habits: yes
+          plugin_habits_from: 100
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # Languages with progress bars
           plugin_languages: yes
           plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_lines: yes
