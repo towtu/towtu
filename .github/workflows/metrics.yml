@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
+  # Allow manual runs
   workflow_dispatch:
+  # Run on every push to the master/main branch
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -20,32 +23,17 @@ jobs:
           # 🌟 FORCES WIDE / SIDE-BY-SIDE LAYOUT 🌟
           config_display: large
           
-          # 🎨 THEME: Gives it a vibrant neon/dark aesthetic! (Delete this line for default colors)
-          config_theme: tokyonight
-          
-          # 🏆 GAMIFICATION: Cartoon Style Badges! 🏆
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # 📊 GRAPHS: Commit Activity Bar Charts 📊
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: no      # <--- Turned off to prevent the "Unexpected Error!"
-          plugin_habits_charts: yes    # <--- Keeps the awesome bar graphs!
-          
-          # 🧊 3D Isometric Calendar 🧊
+          # 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # 💻 Languages Progress Bars
+          # Languages
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # 📝 Lines of Code 
+          # Lines of Code 
           plugin_lines: yes
           
           # 🎵 Spotify Integration (Static Embed Mode) 🎵
