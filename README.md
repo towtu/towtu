@@ -15,6 +15,12 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   </a>
 </p>
 
+### 📈 GitHub Activity & Streak:
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=towtu&bg_color=0D1117&color=3498DB&line=3498DB&point=FFFFFF&area=true&hide_border=true" alt="Koby's Activity Graph" />
+</p>
+
 ### 📊 GitHub Metrics:
 
 <p align="left">
