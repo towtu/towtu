@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # Allow manual runs
   workflow_dispatch:
-  # Run on every push to the master/main branch
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -33,7 +30,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           
-          # Lines of Code (Replaces the broken habits)
+          # Lines of Code
           plugin_lines: yes
           
           # 🎵 Spotify Integration (Static Playlist Mode) 🎵
@@ -41,4 +38,4 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: playlist
           plugin_music_limit: 2
-          plugin_music_playlist: https://open.spotify.com/playlist/0UJZiUNYLrWOqdcWobXblc?si=zCdvUnBTQru2Fu1PCy-gVw
+          plugin_music_playlist: https://open.spotify.com/playlist/0UJZiUNYLrWOqdcWobXblc?si=RpQ4_UD9Q0GHRtVROf_Pcw
