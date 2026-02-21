@@ -38,4 +38,4 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_mode: playlist
           plugin_music_limit: 2
-          plugin_music_playlist: https://open.spotify.com/playlist/0UJZiUNYLrWOqdcWobXblc?si=RpQ4_UD9Q0GHRtVROf_Pcw
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/7wYV7uVv0R1D1T0i1Wl0wK
