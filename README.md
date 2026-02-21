@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&width=500&lines=Hi,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
+# Hi 👋, I'm Koby Christian
 
 A passionate **Computer Science Student and Full Stack Developer** from the Philippines. I love building data-driven applications, focusing on robust system logic, web systems, and cross-platform mobile development. I'm a highly adaptable learner who enjoys bringing ideas to life, whether that's through automation, computer vision, or crafting scalable user experiences.
 
@@ -15,19 +15,8 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   </a>
 </p>
 
-### 📈 GitHub Activity & Streak:
+### 📊 GitHub Metrics:
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=towtu&bg_color=0D1117&color=3498DB&line=3498DB&point=FFFFFF&area=true&hide_border=true" alt="Koby's Activity Graph" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" />
-</p>
-
----
-<p align="center">
-  <i>Let's connect and build something awesome together!</i> <br>
-  <a href="https://github.com/towtu">GitHub</a> • 
-  <a href="mailto:atilanokobychristian@gmail.com">Email</a>
+  <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
 </p>
