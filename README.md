@@ -11,7 +11,7 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
   </a>
 </p>
 
