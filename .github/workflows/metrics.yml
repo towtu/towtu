@@ -17,22 +17,18 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
           
-          # 🌟 THIS IS THE MAGIC SETTING FOR THE WIDE LAYOUT 🌟
-          config_display: large 
+          # 🌟 This forces the wide, multi-column layout 🌟
+          config_display: large
           
           # 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Coding Habits (Tweaked to prevent the API timeout error)
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
           
           # Languages with progress bars
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
+          
+          # Lines of code (Adds the "X added, Y removed" stat from your reference)
+          plugin_lines: yes
