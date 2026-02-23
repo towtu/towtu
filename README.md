@@ -15,6 +15,14 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   </a>
 </p>
 
+### 🏆 GitHub Trophies:
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=towtu&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Koby's Trophies" />
+  </a>
+</p>
+
 ### 📈 GitHub Activity & Streak:
 
 <p align="left">
@@ -25,10 +33,4 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
-</p>
-
-### 🐍 Contribution Activity:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/towtu/towtu/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </p>
