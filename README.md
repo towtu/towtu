@@ -10,15 +10,17 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 ### 🚀 Featured Projects:
 
 <div align="center">
-  <table width="50%">
+  <table>
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" /><br>
         <h3>🏋️‍♂️ TrackBing</h3>
         <p>A comprehensive fitness tracker application.</p>
         <em>React Native • Supabase</em><br><br>
         <a href="https://github.com/towtu/Trackbing"><b>View Repository ➔</b></a>
       </td>
-      <td width="50%" align="center">
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" /><br>
         <h3>✈️ Lakbay</h3>
         <p>A cross-platform travel planner application.</p>
         <em>Flutter • Dart</em><br><br>
