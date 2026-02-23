@@ -9,26 +9,9 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 ### 🚀 Featured Projects:
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" /><br>
-        <h3>🏋️‍♂️ TrackBing</h3>
-        <p>A comprehensive fitness tracker application.</p>
-        <em>React Native • Supabase</em><br><br>
-        <a href="https://github.com/towtu/Trackbing"><b>View Repository ➔</b></a>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="250" height="1" /><br>
-        <h3>✈️ Lakbay</h3>
-        <p>A cross-platform travel planner application.</p>
-        <em>Flutter • Dart</em><br><br>
-        <a href="https://github.com/towtu/Lakbay"><b>View Repository ➔</b></a>
-      </td>
-    </tr>
-  </table>
-</div>
+| <br> &nbsp;&nbsp;&nbsp; 🏋️‍♂️ **TrackBing** &nbsp;&nbsp;&nbsp; <br><br> | <br> &nbsp;&nbsp;&nbsp; ✈️ **Lakbay** &nbsp;&nbsp;&nbsp; <br><br> |
+| :---: | :---: |
+| <br> <sub>A comprehensive fitness tracker application.</sub> <br> <sub>*React Native • Supabase*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Trackbing)</sub> <br><br> | <br> <sub>A cross-platform travel planner application.</sub> <br> <sub>*Flutter • Dart*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Lakbay)</sub> <br><br> |
 
 
 ### Languages and Tools:
