@@ -10,7 +10,7 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 ### 🚀 Featured Projects:
 
 <div align="center">
-  <table width="75%">
+  <table width="50%">
     <tr>
       <td width="50%" align="center">
         <h3>🏋️‍♂️ TrackBing</h3>
@@ -27,6 +27,7 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
     </tr>
   </table>
 </div>
+
 
 ### Languages and Tools:
 
