@@ -11,7 +11,7 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,ionic,dotnet,docker,git,github,postman&perline=8" alt="Koby's Tech Stack" />
   </a>
 </p>
 
@@ -26,4 +26,3 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 <p align="left">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </p>
-
