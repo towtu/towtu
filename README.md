@@ -7,11 +7,22 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 - 📫 How to reach me: **[atilanokobychristian@gmail.com](mailto:atilanokobychristian@gmail.com)**
 - ⚡ Fun fact: When I'm not coding, I'm probably building tools to track my macros or experimenting with new air fryer recipes!
 
+### 🚀 Featured Projects:
+
+<p align="center">
+  <a href="https://github.com/towtu/Trackbing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=towtu&repo=Trackbing&theme=tokyonight&bg_color=0D1117&border_color=3498DB" alt="TrackBing - Fitness Tracker" width="48%" />
+  </a>
+  <a href="https://github.com/towtu/Lakbay">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=towtu&repo=Lakbay&theme=tokyonight&bg_color=0D1117&border_color=3498DB" alt="Lakbay - Travel Planner" width="48%" />
+  </a>
+</p>
+
 ### Languages and Tools:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,ionic,dotnet,docker,git,github,postman&perline=8" alt="Koby's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,ionic,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" />
   </a>
 </p>
 
