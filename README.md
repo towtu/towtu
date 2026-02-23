@@ -26,3 +26,9 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 <p align="left">
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
 </p>
+
+### 🐍 Contribution Activity:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/towtu/towtu/output/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
