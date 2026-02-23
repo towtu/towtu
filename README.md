@@ -15,14 +15,6 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   </a>
 </p>
 
-### 🏆 GitHub Trophies:
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=towtu&theme=nord&no-frame=true&no-bg=true&margin-w=15" alt="Koby's Trophies" />
-  </a>
-</p>
-
 ### 📈 GitHub Activity & Streak:
 
 <p align="left">
@@ -33,4 +25,15 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
+</p>
+
+### 🏙️ My GitHub Code City:
+
+<p align="left">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
+</p>
+
+### 👾 Profile Guardian:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Animated Gengar" width="80" />
 </p>
