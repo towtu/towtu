@@ -14,17 +14,16 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
     <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
   </a>
 </p>
+
 ### 📊 GitHub Metrics:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
 </p>
+
 ### Welcome to my Activity:
 
 <p align="left">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </p>
 
-<marquee direction="right" scrollamount="6" width="100%">
-  <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif?v=1" width="50" alt="Running Pikachu" />
-</marquee>
