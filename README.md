@@ -9,22 +9,24 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 ### 🚀 Featured Projects:
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🏋️‍♂️ TrackBing</h3>
-      <p>A comprehensive fitness tracker application.</p>
-      <em>React Native • Supabase</em><br><br>
-      <a href="https://github.com/towtu/Trackbing"><b>View Repository ➔</b></a>
-    </td>
-    <td width="50%" align="center">
-      <h3>✈️ Lakbay</h3>
-      <p>A cross-platform travel planner application.</p>
-      <em>Flutter • Dart</em><br><br>
-      <a href="https://github.com/towtu/Lakbay"><b>View Repository ➔</b></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="75%">
+    <tr>
+      <td width="50%" align="center">
+        <h3>🏋️‍♂️ TrackBing</h3>
+        <p>A comprehensive fitness tracker application.</p>
+        <em>React Native • Supabase</em><br><br>
+        <a href="https://github.com/towtu/Trackbing"><b>View Repository ➔</b></a>
+      </td>
+      <td width="50%" align="center">
+        <h3>✈️ Lakbay</h3>
+        <p>A cross-platform travel planner application.</p>
+        <em>Flutter • Dart</em><br><br>
+        <a href="https://github.com/towtu/Lakbay"><b>View Repository ➔</b></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Languages and Tools:
 
