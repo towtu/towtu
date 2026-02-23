@@ -22,6 +22,10 @@ jobs:
           config_theme: nightowl
           config_animations: yes
           
+          # 🎨 CSS HACK: Turns the green calendar blocks blue!
+          extras_css: |
+            .isocalendar, .calendar { filter: hue-rotate(190deg) saturate(1.5); }
+          
           # 🧊 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
