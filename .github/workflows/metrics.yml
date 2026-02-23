@@ -17,18 +17,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
           
-          # 🌟 LAYOUT, BLUE THEME & ANIMATIONS 🌟
+          # 🌟 LAYOUT & BLUE THEME 🌟
           config_display: large
           config_theme: nightowl
           config_animations: yes
-          
-          # 🎨 CSS HACK: Turns the green calendar blocks blue!
-          extras_css: |
-            .isocalendar, .calendar { filter: hue-rotate(190deg) saturate(1.5); }
-          
-          # 🧊 3D Isometric Calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
           
           # 💻 Languages
           plugin_languages: yes
@@ -39,7 +31,7 @@ jobs:
           # 📝 Lines of Code 
           plugin_lines: yes
           
-          # 🎵 Spotify Integration (Static Embed Mode) 🎵
+          # 🎵 Spotify Integration 🎵
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: playlist
