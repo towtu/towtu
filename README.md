@@ -9,9 +9,13 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 
 ### 🚀 Featured Projects:
 
+<div align="center">
+
 | <br> &nbsp;&nbsp;&nbsp; 🏋️‍♂️ **TrackBing** &nbsp;&nbsp;&nbsp; <br><br> | <br> &nbsp;&nbsp;&nbsp; ✈️ **Lakbay** &nbsp;&nbsp;&nbsp; <br><br> |
 | :---: | :---: |
 | <br> <sub>A comprehensive fitness tracker application.</sub> <br> <sub>*React Native • Supabase*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Trackbing)</sub> <br><br> | <br> <sub>A cross-platform travel planner application.</sub> <br> <sub>*Flutter • Dart*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Lakbay)</sub> <br><br> |
+
+</div>
 
 
 ### Languages and Tools:
