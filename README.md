@@ -15,7 +15,7 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   </a>
 </p>
 
-### 📈 GitHub Activity & Streak:
+### GitHub streaks:
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" />
@@ -27,13 +27,13 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
 </p>
 
-### 🏙️ My GitHub Code City:
+### Welcome to my activity:
 
 <p align="left">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </p>
 
 ### 👾 Profile Guardian:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" alt="Animated Gengar" width="80" />
-</p>
+<marquee direction="right" scrollamount="6" width="100%">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mario.gif" width="50" alt="Running Mario" />
+</marquee>
