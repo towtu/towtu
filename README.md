@@ -14,13 +14,6 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
     <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,mongodb,tailwind&perline=10" alt="Koby's Tech Stack" />
   </a>
 </p>
-
-### GitHub streaks:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" />
-</p>
-
 ### 📊 GitHub Metrics:
 
 <p align="left">
@@ -32,8 +25,6 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </p>
 
-### 👾 Profile Guardian:
-
-<marquee direction="right" scrollamount="5" width="100%">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50" alt="Walking Pikachu" />
+<marquee direction="right" scrollamount="6" width="100%">
+  <img src="https://projectpokemon.org/images/normal-sprite/pikachu.gif?v=1" width="50" alt="Running Pikachu" />
 </marquee>
