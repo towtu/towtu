@@ -19,15 +19,10 @@ jobs:
           
           # 🌟 LAYOUT, BLUE THEME & ANIMATIONS 🌟
           config_display: large
-          config_theme: nightowl         # <-- Gives it a sleek, dark-blue look!
-          config_animations: yes         # <-- Adds smooth loading animations!
+          config_theme: nightowl
+          config_animations: yes
           
-          # 🏆 GAMIFICATION: Cartoon Style Badges 🏆
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          
-          # 🧊 3D Isometric Calendar (Squashed to half-year for a denser look!)
+          # 🧊 3D Isometric Calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
