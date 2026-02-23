@@ -26,14 +26,14 @@ A passionate **Computer Science Student and Full Stack Developer** from the Phil
 <p align="left">
   <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
 </p>
-
-### Welcome to my activity:
+### Welcome to my Activity:
 
 <p align="left">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
 </p>
 
 ### 👾 Profile Guardian:
-<marquee direction="right" scrollamount="6" width="100%">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/mario.gif" width="50" alt="Running Mario" />
+
+<marquee direction="right" scrollamount="5" width="100%">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50" alt="Walking Pikachu" />
 </marquee>
