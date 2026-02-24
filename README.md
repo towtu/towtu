@@ -45,9 +45,4 @@ const coder = {
 💻 Languages and Tools:
 
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" /> </a> </p>
-
-📉 Activity & Metrics:
-
-<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" /> </p>
-
 <p align="left"> <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" /> </p>
