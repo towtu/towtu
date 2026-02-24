@@ -1,9 +1,18 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&width=500&lines=Hi+👋,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
+<div align="center">
 
-- 🔭 I’m currently working on a personal portfolio and full-stack e-commerce platforms.
-- 🌱 I’m currently deep-diving into Software Configuration Management and server-side technologies.
-- 📫 How to reach me: **[atilanokobychristian@gmail.com](mailto:atilanokobychristian@gmail.com)**
-- ⚡ Fun fact: When I'm not coding, I'm probably building tools to track my macros or experimenting with new air fryer recipes!
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
+
+> 🔭 **Working on:** Personal Portfolio & E-commerce Platforms
+>
+> 🌱 **Deep-diving:** Software Configuration Management & Server-side Tech
+>
+> ⚡ **Fun Fact:** I build macro-tracking tools & experiment with air fryer recipes!
+
+<br>
+
+📫 **[atilanokobychristian@gmail.com](mailto:atilanokobychristian@gmail.com)**
+
+</div>
 
 ### 🚀 Featured Projects:
 
@@ -15,7 +24,6 @@
 
 </div>
 
-
 ### Languages and Tools:
 
 <p align="left">
@@ -24,9 +32,8 @@
   </a>
 </p>
 
-
 ### Welcome to my Activity:
 
-<p align="left">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
-</p>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="60%" />
+</div>
