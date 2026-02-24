@@ -24,11 +24,6 @@
   </a>
 </p>
 
-### 📊 GitHub Metrics:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" />
-</p>
 
 ### Welcome to my Activity:
 
