@@ -1,39 +1,53 @@
 <div align="center">
-
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Koby+Christian;Computer+Science+Student;Full+Stack+Developer" alt="Typing SVG" />
-
-> 🔭 **Working on:** Personal Portfolio & E-commerce Platforms
->
-> 🌱 **Deep-diving:** Software Configuration Management & Server-side Tech
->
-> ⚡ **Fun Fact:** I build macro-tracking tools & experiment with air fryer recipes!
-
-<br>
-
-📫 **[atilanokobychristian@gmail.com](mailto:atilanokobychristian@gmail.com)**
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=const+coder+%3D+%22Koby+Christian%22%3B;console.log(%22Hello+World!%22)%3B" alt="Typing SVG" />
 </div>
 
-### 🚀 Featured Projects:
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 const aboutMe = ...</h3>
+      <sub>
 
-<div align="center">
+```javascript
+const coder = {
+  name: "Koby Christian",
+  education: "BS Computer Science",
+  location: "Philippines",
+  
+  // 🚀 Active Projects
+  working_on: {
+    mobile: ["Trackbing (Fitness)", "Lakbay (Travel)"],
+    web: ["Chiekoi Store (E-commerce)"]
+  },
 
-| <br> &nbsp;&nbsp;&nbsp; 🏋️‍♂️ **TrackBing** &nbsp;&nbsp;&nbsp; <br><br> | <br> &nbsp;&nbsp;&nbsp; ✈️ **Lakbay** &nbsp;&nbsp;&nbsp; <br><br> |
-| :---: | :---: |
-| <br> <sub>A comprehensive fitness tracker application.</sub> <br> <sub>*React Native • Supabase*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Trackbing)</sub> <br><br> | <br> <sub>A cross-platform travel planner application.</sub> <br> <sub>*Flutter • Dart*</sub> <br><br> <sub>[**➔ View Repository**](https://github.com/towtu/Lakbay)</sub> <br><br> |
+  // 💻 Tech Stack
+  technologies: {
+    languages: ["JS", "Python", "Rust", "Go"],
+    frontend: ["React", "Tailwind", "Flutter"],
+    backend: ["Node", "Django", "Supabase"]
+  },
 
-</div>
+  // ⚡ Interests
+  interests: ["Automation", "Machine Learning"]
+};
+```
 
-### Languages and Tools:
+  </sub>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <br><br>
+      <p align="center"><b>My GitHub City</b></p>
+      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" />
-  </a>
-</p>
+💻 Languages and Tools:
 
-### Welcome to my Activity:
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" /> </a> </p>
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="60%" />
-</div>
+📉 Activity & Metrics:
+
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=towtu&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=bdc3c7" alt="towtu's Streak" /> </p>
+
+<p align="left"> <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" /> </p>
