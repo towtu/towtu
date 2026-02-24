@@ -45,4 +45,3 @@ const coder = {
 💻 Languages and Tools:
 
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" /> </a> </p>
-<p align="left"> <img src="https://raw.githubusercontent.com/towtu/towtu/main/github-metrics.svg" alt="Metrics Dashboard" /> </p>
