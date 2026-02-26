@@ -13,8 +13,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: towtu
+          # The first color (#00000000) makes the background grid transparent
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#1e293b,#450a0a,#b91c1c,#ef4444
+            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#00000000,#450a0a,#b91c1c,#ef4444
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
