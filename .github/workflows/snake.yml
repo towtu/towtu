@@ -13,9 +13,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: towtu
-          # The first color (#ffffff) makes the empty background grid white
+          # 5 colors strictly defined: White (Empty), Light Red, Medium Red, Bright Red, Dark Red (Max)
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#ffffff,#450a0a,#b91c1c,#ef4444
+            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#ffffff,#fecaca,#f87171,#ef4444,#b91c1c
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
