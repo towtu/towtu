@@ -36,7 +36,7 @@ const coder = {
     </td>
     <td width="40%" valign="center" align="center">
       <br><br>
-      <p align="center"><b>My GitHub City</b></p>
+      <p align="center"><b>My GitHub Activity</b></p>
       <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
     </td>
   </tr>
