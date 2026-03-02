@@ -46,10 +46,3 @@ const coder = {
 
 <p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" /> </a> </p>
 
-<br>
-
-<h2 align="center">💻 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towtu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
