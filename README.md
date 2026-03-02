@@ -48,8 +48,8 @@ const coder = {
 
 <br>
 
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">💻 Top Languages</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=towtu&theme=github-dark-blue&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towtu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
