@@ -14,10 +14,10 @@ const coder = {
   education: "BS Computer Science",
   location: "Philippines",
   
-  // 🚀 Active Projects
+  //  Active Projects
   working_on: {
     mobile: ["Trackbing (Fitness)", "Lakbay (Travel)"],
-    web: ["Chiekoi Store (E-commerce)"]
+    web: ["Chiekoi Store (E-commerce),BingCatcher(Notification Listener)"]
   },
 
   // 💻 Tech Stack
