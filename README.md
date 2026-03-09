@@ -20,14 +20,14 @@ const coder = {
     web: ["Chiekoi Store (E-commerce),BingCatcher(Notification Listener)"]
   },
 
-  // 💻 Tech Stack
+  //  Tech Stack
   technologies: {
     languages: ["JS", "Python", "Rust", "Go"],
-    frontend: ["React", "Tailwind", "Flutter"],
+    frontend: ["React", "Tailwind", "Flutter", "CSS"],
     backend: ["Node", "Django", "Supabase"]
   },
 
-  // ⚡ Interests
+  //  Interests
   interests: ["Automation", "Machine Learning"]
 };
 ```
