@@ -17,7 +17,7 @@ const coder = {
   //  Active Projects
   working_on: {
     mobile: ["Trackbing (Fitness)", "Lakbay (Travel)"],
-    web: ["Chiekoi Store (E-commerce),BingCatcher(Notification Listener)"]
+    web: ["Chiekoi Store (Store-List),BingCatcher(Notification Listener)"]
   },
 
   //  Tech Stack
