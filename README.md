@@ -14,7 +14,7 @@ const coder = {
   education: "BS Computer Science",
   location: "Philippines",
   
-  //  Active Projects
+  //  Recent Projects
   working_on: {
     mobile: ["Trackbing (Calorie-Tracker)", "Lakbay (Travel-Planner)"],
     web: ["Chiekoi Store (Store-List),BingCatcher(Notification Listener)"]
