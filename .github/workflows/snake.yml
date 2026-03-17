@@ -1,10 +1,8 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,12 +11,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: towtu
-          # 5 colors strictly defined: White (Empty), Light Red, Medium Red, Bright Red, Dark Red (Max)
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#38bdf8&color_dots=#ffffff,#fecaca,#f87171,#ef4444,#b91c1c
+            dist/github-contribution-grid-snake.svg?color_snake=#a78bfa&color_dots=#ffffff,#ede9fe,#c4b5fd,#8b5cf6,#6d28d9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
