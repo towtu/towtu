@@ -10,9 +10,9 @@
 
 ```javascript
 const coder = {
-  name: "Koby Christian Atilano",
+  name: "Koby Christian O. Atilano",
   education: "BS Computer Science",
-  location: "Philippines",
+  location: "Tagoloan, Philippines",
   
   //  Recent Projects
   working_on: {
