@@ -28,7 +28,7 @@ const coder = {
   },
 
   //  Interests
-  interests: ["Automation", "Machine Learning"]
+  interests: ["Automation", "Machine Learning, AI"]
 };
 ```
 
