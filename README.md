@@ -14,35 +14,28 @@ const coder = {
   education: "BS Computer Science",
   location: "Tagoloan, Philippines",
   
-  //  Recent Projects
+  // Recent Projects
   working_on: {
-    mobile: ["Trackbing (Calorie-Tracker)", "Lakbay (Travel-Planner)"],
-    web: ["Chiekoi Store (Store-List),BingCatcher(Notification Listener), Genesis(TO-DO list)"]
+    mobile: ["Trackbing", "Lakbay"],
+    web: ["Chiekoi Store", "BingCatcher", "Genesis"]
   },
 
-  //  Tech Stack
+  // Tech Stack
   technologies: {
     languages: ["JS", "Python", "Rust", "Go"],
     frontend: ["React", "Tailwind", "Flutter", "CSS"],
     backend: ["Node", "Django", "Supabase"]
   },
 
-  //  Interests
-  interests: ["Automation", "Machine Learning, AI"]
+  // Interests
+  interests: ["Automation", "Machine Learning", "AI", "API Security"]
 };
-```
-
   </sub>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <br><br>
-      <p align="center"><b>My GitHub Activity</b></p>
-      <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
-    </td>
-  </tr>
-</table>
-
-💻 Languages and Tools:
-
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp,c,html,css,react,angular,flutter,dart,django,nodejs,supabase,firebase,mysql,postgres,mongodb,tailwind,aws,androidstudio,kotlin,vite,vercel,dotnet,docker,git,github,postman&perline=32" alt="Koby's Tech Stack" /> </a> </p>
-
+</td>
+<td width="40%" valign="top" align="center">
+  <br>
+  <p align="center"><b>My GitHub Activity</b></p>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City Skyline" width="100%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towtu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Top Langs" />
+</td>
