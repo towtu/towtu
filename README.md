@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=const+coder+%3D+%22Koby+Atilano%22%3B;console.log(%22Hello+World!%22)%3B" alt="Typing SVG" />
 </div>
-
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
