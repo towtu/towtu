@@ -4,6 +4,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
+      
       <h3>👨‍💻 const aboutMe = ...</h3>
       <sub>
 ```javascript
