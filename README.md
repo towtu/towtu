@@ -16,7 +16,7 @@ const coder = {
   
   //  Recent Projects
   working_on: {
-    mobile: ["Trackbing (Calorie-Tracker)", "Lakbay (Travel-Planner)"],
+    mobile: ["Trackbing", "Lakbay"],
     web: ["Chiekoi Store,BingCatcher, MisorTransit"]
   },
 
