@@ -5,7 +5,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <h3  align="center">👨‍💻 const aboutKoby = ...</h3>
+      <h3  align="center">👨‍💻 const about Koby = ...</h3>
       <sub>
 
 ```javascript
