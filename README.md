@@ -22,7 +22,7 @@ const coder = {
 
   //  Tech Stack
   technologies: {
-    languages: ["JS", "Python", "C++", "C#", "C"],
+    languages: ["JS", "Python", "C++", "C#", "C", "Java"],
     frontend: ["React", "Tailwind", "Flutter", "CSS"],
     backend: ["Node", "Django", "Supabase"]
   },
